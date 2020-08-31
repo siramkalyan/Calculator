@@ -1,6 +1,6 @@
 # Calculator
 
-#Feaatures of the app
+# Feaatures of the app
 
 1) Basic Arithematic Operations
 2) Support on Rotation
