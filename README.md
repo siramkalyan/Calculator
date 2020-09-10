@@ -13,3 +13,4 @@
     
 6) Scroll View is all added for the smooth and neat display.
 
+# Outputs folder contains the apk and screenshots
